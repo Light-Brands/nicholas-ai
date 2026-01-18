@@ -43,7 +43,6 @@ All detailed timeline documents are organized in the `planning/` folder:
 |------|-------------|
 | [Timeline Index](./planning/timeline-by-year/00-index.md) | Complete index of all timeline documents with reading order |
 | [Introduction](./planning/timeline-by-year/00-introduction.md) | The Godzillionnaire vision and overview of the journey |
-| [Raw Timeline](./planning/raw-timeline/) | Original source document (~354KB) |
 
 ### Timeline by Year
 
