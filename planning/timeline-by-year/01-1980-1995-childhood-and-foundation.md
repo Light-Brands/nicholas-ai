@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Intro](./00-introduction.md) · [Next →](./02-1996-2001-departure-and-new-york.md)
+
+---
+
 # 1980-1995: Childhood and Foundation
 
 ## Birth and Early Years (1980-1984)
@@ -172,5 +176,4 @@ Worse, I turned my back on God and crowned myself my own god.
 
 ---
 
-*Previous: [00-introduction.md](./00-introduction.md)*
-*Continue to: [02-1996-2001-departure-and-new-york.md](./02-1996-2001-departure-and-new-york.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Intro](./00-introduction.md) · [Next: New York →](./02-1996-2001-departure-and-new-york.md)

@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [Next →](./01-1980-1995-childhood-and-foundation.md)
+
+---
+
 # My Story: Introduction
 
 ## **Godzillionnaire**
@@ -76,4 +80,4 @@ This is my calling.
 
 ---
 
-*Continue to: [01-1980-1995-childhood-and-foundation.md](./01-1980-1995-childhood-and-foundation.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [Next: Childhood →](./01-1980-1995-childhood-and-foundation.md)

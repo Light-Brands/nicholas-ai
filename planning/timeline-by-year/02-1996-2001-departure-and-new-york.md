@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./01-1980-1995-childhood-and-foundation.md) · [Next →](./03-2001-2007-businesses-and-downfall.md)
+
+---
+
 # 1996-2001: Departure and New York
 
 ## Anger, Identity Collapse, and the Second Covenant (Age 15-16)
@@ -317,5 +321,4 @@ We made the decision to move to New York and stay there most of the time, return
 
 ---
 
-*Previous: [01-1980-1995-childhood-and-foundation.md](./01-1980-1995-childhood-and-foundation.md)*
-*Continue to: [03-2001-2007-businesses-and-downfall.md](./03-2001-2007-businesses-and-downfall.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Childhood](./01-1980-1995-childhood-and-foundation.md) · [Next: Businesses →](./03-2001-2007-businesses-and-downfall.md)

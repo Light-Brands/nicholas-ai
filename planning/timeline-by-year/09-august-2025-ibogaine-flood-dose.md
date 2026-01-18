@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./08-2024-2025-trauma-resurgence-therapy.md) · [Next →](./10-august-2025-ibogaine-boosters.md)
+
+---
+
 # August 2025: Ibogaine Flood Dose
 
 ## Arrival at Transcend Clinic
@@ -263,5 +267,4 @@ Through the sacred medicine God created.
 
 ---
 
-*Previous: [08-2024-2025-trauma-resurgence-therapy.md](./08-2024-2025-trauma-resurgence-therapy.md)*
-*Continue to: [10-august-2025-ibogaine-boosters.md](./10-august-2025-ibogaine-boosters.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Trauma Therapy](./08-2024-2025-trauma-resurgence-therapy.md) · [Next: Boosters →](./10-august-2025-ibogaine-boosters.md)

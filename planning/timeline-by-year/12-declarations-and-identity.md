@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./11-november-2025-return-to-transcend.md)
+
+---
+
 # Declarations and Identity
 
 ## Life Purpose Statement
@@ -301,5 +305,4 @@ There is no work to do, only to be, and to let it be.
 
 ---
 
-*Previous: [11-november-2025-return-to-transcend.md](./11-november-2025-return-to-transcend.md)*
-*Return to: [00-index.md](./00-index.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Return to Transcend](./11-november-2025-return-to-transcend.md)

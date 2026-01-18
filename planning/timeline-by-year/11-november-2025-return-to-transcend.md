@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./10-august-2025-ibogaine-boosters.md) · [Next →](./12-declarations-and-identity.md)
+
+---
+
 # November 2025: Return to Transcend
 
 ## 90 Days of Living in Presence
@@ -271,5 +275,4 @@ I may choose to descend back into lower states of survival, but I will never aga
 
 ---
 
-*Previous: [10-august-2025-ibogaine-boosters.md](./10-august-2025-ibogaine-boosters.md)*
-*Continue to: [12-declarations-and-identity.md](./12-declarations-and-identity.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Boosters](./10-august-2025-ibogaine-boosters.md) · [Next: Declarations →](./12-declarations-and-identity.md)

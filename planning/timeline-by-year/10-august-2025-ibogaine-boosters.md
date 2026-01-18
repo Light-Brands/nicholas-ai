@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./09-august-2025-ibogaine-flood-dose.md) · [Next →](./11-november-2025-return-to-transcend.md)
+
+---
+
 # August 2025: Ibogaine Booster Doses
 
 ## Understanding the Boosters
@@ -205,5 +209,4 @@ The closing declaration resounded:
 
 ---
 
-*Previous: [09-august-2025-ibogaine-flood-dose.md](./09-august-2025-ibogaine-flood-dose.md)*
-*Continue to: [11-november-2025-return-to-transcend.md](./11-november-2025-return-to-transcend.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Flood Dose](./09-august-2025-ibogaine-flood-dose.md) · [Next: Return →](./11-november-2025-return-to-transcend.md)

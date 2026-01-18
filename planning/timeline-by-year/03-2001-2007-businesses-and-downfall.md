@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./02-1996-2001-departure-and-new-york.md) · [Next →](./04-2007-2011-rehabilitation-and-marriage.md)
+
+---
+
 # 2001-2007: Businesses and Downfall
 
 ## Life in New York with Nancy (2001-2003)
@@ -460,5 +464,4 @@ My entire being slipped rapidly toward the abyss.
 
 ---
 
-*Previous: [02-1996-2001-departure-and-new-york.md](./02-1996-2001-departure-and-new-york.md)*
-*Continue to: [04-2007-2011-rehabilitation-and-marriage.md](./04-2007-2011-rehabilitation-and-marriage.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← New York](./02-1996-2001-departure-and-new-york.md) · [Next: Rehabilitation →](./04-2007-2011-rehabilitation-and-marriage.md)

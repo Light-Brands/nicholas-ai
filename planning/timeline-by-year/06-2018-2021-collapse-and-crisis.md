@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./05-2011-2018-sobriety-and-success.md) · [Next →](./07-2021-2024-sacred-healing-journey.md)
+
+---
+
 # 2018-2021: Collapse and Crisis
 
 ## The Castle of Cards (2018-2019)
@@ -288,5 +292,4 @@ It would eventually lead me to a sacred journey I could never have imagined.
 
 ---
 
-*Previous: [05-2011-2018-sobriety-and-success.md](./05-2011-2018-sobriety-and-success.md)*
-*Continue to: [07-2021-2024-sacred-healing-journey.md](./07-2021-2024-sacred-healing-journey.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Sobriety](./05-2011-2018-sobriety-and-success.md) · [Next: Healing →](./07-2021-2024-sacred-healing-journey.md)

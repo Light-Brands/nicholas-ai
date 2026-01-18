@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./07-2021-2024-sacred-healing-journey.md) · [Next →](./09-august-2025-ibogaine-flood-dose.md)
+
+---
+
 # 2024-2025: Trauma Resurgence Therapy
 
 ## Meeting Paul
@@ -215,5 +219,4 @@ Ready to be reborn.
 
 ---
 
-*Previous: [07-2021-2024-sacred-healing-journey.md](./07-2021-2024-sacred-healing-journey.md)*
-*Continue to: [09-august-2025-ibogaine-flood-dose.md](./09-august-2025-ibogaine-flood-dose.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Healing](./07-2021-2024-sacred-healing-journey.md) · [Next: Ibogaine →](./09-august-2025-ibogaine-flood-dose.md)

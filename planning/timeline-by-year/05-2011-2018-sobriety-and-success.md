@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./04-2007-2011-rehabilitation-and-marriage.md) · [Next →](./06-2018-2021-collapse-and-crisis.md)
+
+---
+
 # 2011-2018: Sobriety and Success
 
 ## Eight Years Sober
@@ -243,5 +247,4 @@ And that death was about to come—whether I was ready or not.
 
 ---
 
-*Previous: [04-2007-2011-rehabilitation-and-marriage.md](./04-2007-2011-rehabilitation-and-marriage.md)*
-*Continue to: [06-2018-2021-collapse-and-crisis.md](./06-2018-2021-collapse-and-crisis.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Rehabilitation](./04-2007-2011-rehabilitation-and-marriage.md) · [Next: Crisis →](./06-2018-2021-collapse-and-crisis.md)

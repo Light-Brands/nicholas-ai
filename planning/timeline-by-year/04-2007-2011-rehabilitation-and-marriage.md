@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./03-2001-2007-businesses-and-downfall.md) · [Next →](./05-2011-2018-sobriety-and-success.md)
+
+---
+
 # 2007-2011: Rehabilitation and Marriage
 
 ## Nancy's Return and the Intervention (June 2007)
@@ -374,5 +378,4 @@ I was ready for the next chapter.
 
 ---
 
-*Previous: [03-2001-2007-businesses-and-downfall.md](./03-2001-2007-businesses-and-downfall.md)*
-*Continue to: [05-2011-2018-sobriety-and-success.md](./05-2011-2018-sobriety-and-success.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Businesses](./03-2001-2007-businesses-and-downfall.md) · [Next: Sobriety →](./05-2011-2018-sobriety-and-success.md)

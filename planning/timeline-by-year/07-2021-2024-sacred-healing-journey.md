@@ -1,3 +1,7 @@
+[← Home](../../README.md) · [Index](./00-index.md) · [← Prev](./06-2018-2021-collapse-and-crisis.md) · [Next →](./08-2024-2025-trauma-resurgence-therapy.md)
+
+---
+
 # 2021-2024: Sacred Healing Journey
 
 ## The Decision to Stop Medication (2021)
@@ -238,5 +242,4 @@ To an encounter with God through **Ibogaine** that would change everything.
 
 ---
 
-*Previous: [06-2018-2021-collapse-and-crisis.md](./06-2018-2021-collapse-and-crisis.md)*
-*Continue to: [08-2024-2025-trauma-resurgence-therapy.md](./08-2024-2025-trauma-resurgence-therapy.md)*
+[← Home](../../README.md) · [Index](./00-index.md) · [← Crisis](./06-2018-2021-collapse-and-crisis.md) · [Next: Trauma Therapy →](./08-2024-2025-trauma-resurgence-therapy.md)

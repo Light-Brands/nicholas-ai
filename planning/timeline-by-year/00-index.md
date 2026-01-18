@@ -1,3 +1,7 @@
+[← Home](../../README.md)
+
+---
+
 # My Sacred Journey: Timeline Index
 
 This folder contains my life story organized chronologically into digestible documents. Each section covers a major chapter or period of life, preserving all content from the original raw timeline.
@@ -89,3 +93,7 @@ All original content has been preserved and organized for easier reading and ref
 ---
 
 *This is a living document that may continue to grow as the journey continues.*
+
+---
+
+[← Home](../../README.md)
