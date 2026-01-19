@@ -1,14 +1,36 @@
 # Nicholas AI
 
+*Bringing the lost travelers home to the gardens of their souls.*
+
+---
+
 This repository is a living archive of one man's sacred journey—a detailed autobiographical timeline spanning from birth in 1980 through November 2025. It documents the full arc of Nicholas's life: childhood faith, early trauma, entrepreneurial success, addiction, collapse, recovery, and ultimately, spiritual transformation.
+
+But more than a personal history, this is a map for the lost travelers—those who achieved everything the world told them to want yet woke each morning to an emptiness that success could not fill. Those who performed wholeness while fracturing within.
+
+---
+
+## The Soul Mission
+
+**[Read the Full Soul Mission](./SOUL_MISSION.md)**
+
+Every human being is born with a garden within them—an interior landscape where spirit meets soul, where the eternal touches the temporal, where peace and true belonging live. But trauma, pain, and the wounds of living drive us out. We forget there ever was a garden. We wander the wilderness of performance, achievement, and addiction, searching for home in places that were never meant to hold us.
+
+Nicholas wandered for forty-five years. He built empires and destroyed himself. He achieved millions and bankrupted his soul. He performed life instead of living it—until sacred medicine spoke three words: *"It is finished."*
+
+Now he stands at the edge of the wilderness with one sacred purpose:
+
+> **To help other lost travelers find their way home to the gardens of their souls.**
+
+This is not a program. It is a path of return—back through confronted wounds, past the monuments of false success, into the garden that has been waiting all along.
 
 ---
 
 ## What Is This?
 
-**Nicholas AI** is not an artificial intelligence project in the traditional sense. It is something more personal—a comprehensive life documentation that could one day serve as the foundation for an AI that truly understands the depths of human struggle, redemption, and spiritual awakening.
+**Nicholas AI** is not an artificial intelligence project in the traditional sense. It is something more personal—a comprehensive life documentation that serves as the foundation for understanding the depths of human struggle, redemption, and spiritual awakening.
 
-This is the story of a seventeen-year battle. Not just for sobriety, but for identity, wholeness, and truth.
+This is the story of a seventeen-year battle. Not just for sobriety, but for identity, wholeness, and truth. It is a blueprint for transformation—proof that wounds can become doors, that the lost can find their way home, and that the garden within us can never be destroyed.
 
 At its core, this archive captures a fundamental revelation:
 
@@ -69,10 +91,12 @@ The organized timeline is broken into thirteen documents for easier reading:
 This archive exists to:
 
 1. **Preserve** — A complete record of transformation, from trauma to transcendence
-2. **Share** — A blueprint for others walking through addiction, mental health struggles, and spiritual seeking
-3. **Serve** — The foundation for future work helping men, families, and leaders confront the lies that bind them
+2. **Illuminate** — A map for the lost travelers who have forgotten the way home
+3. **Serve** — The foundation for bringing wounded souls back to the gardens within them
 
-Nicholas's calling, as articulated in his journey, is to help married couples dealing with infidelity, addictions, mental health challenges, and burnout—to guide others back to truth.
+Nicholas's calling is to find the lost travelers—the successful ones who are secretly failing, the recovered ones who have never truly healed, the strong ones who are crumbling inside—and remind them that the garden exists, the way home is real, and they are worthy of belonging.
+
+His divine mandate speaks to entrepreneurial married couples dealing with infidelity, addictions, mental health challenges, and burnout. But the soul mission extends to anyone who has wandered too far from themselves and is ready to return.
 
 ---
 
@@ -84,8 +108,10 @@ At the heart of this journey is a vision Nicholas received at thirty-nine years 
 
 > *"Can you promise to love me, care for me, protect me, and activate me in becoming everything God created me to be for the rest of your life?"*
 
-This entire archive is the answer to that question.
+This entire archive is the answer to that question—and the invitation extended to every lost traveler:
+
+*The garden is real. The way home exists. And you belong there.*
 
 ---
 
-*This is a living document. The journey continues.*
+*This is a living document. The journey continues. The lost travelers are coming home.*
