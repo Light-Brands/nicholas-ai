@@ -137,14 +137,15 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 
 ### In Progress
 - [x] Volume I: The Fractured Foundation - **COMPLETE**
-- [ ] Volume II: The Resurrection Attempt - **NOT STARTED**
+- [x] Volume II: The Resurrection Attempt - **COMPLETE**
+- [ ] Volume III: The Dark Night - **NOT STARTED**
 
 ### Writing Status Dashboard
 
 | Volume | Preface | Ch 1 | Ch 2 | Ch 3 | Ch 4 | Ch 5 | Ch 6 | Ch 7 | Ch 8 | Ch 9 | Integration | Status |
 |--------|---------|------|------|------|------|------|------|------|------|------|-------------|--------|
 | I | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
-| II | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| II | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | III | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 | IV | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not Started |
 | V | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
@@ -399,7 +400,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 |-----------|--------|--------|
 | Volume I First Draft Complete | January 24, 2026 | ✅ |
 | Volume I Revised Draft Complete | TBD | ⬜ |
-| Volume II First Draft Complete | TBD | ⬜ |
+| Volume II First Draft Complete | January 24, 2026 | ✅ |
 | Volume II Revised Draft Complete | TBD | ⬜ |
 | Volume III First Draft Complete | TBD | ⬜ |
 | Volume III Revised Draft Complete | TBD | ⬜ |
@@ -511,6 +512,35 @@ Volume I establishes the legendary arc from blessed child to broken man. The nar
 
 ---
 
+### Session 3 - January 24, 2026
+**Focus:** Writing Volume II - The Resurrection Attempt
+**Completed:**
+- Created Volume 2 directory structure
+- Wrote Chapter 1: Hitting Bottom (three rehabs, jail, snowstorm, the voice that saved him)
+- Wrote Chapter 2: The Rooms That Saved Me (AA, twelve steps, what they could and couldn't give)
+- Wrote Chapter 3: Nancy's Faith (marriage in 2008, the sacred contract, her prayers)
+- Wrote Chapter 4: Children of Promise (Perla and Maverick, generational patterns, the stakes)
+- Wrote Chapter 5: The Corporate Ascent (Ideal Protein, VP of Sales, $7.9 million in options)
+- Wrote Chapter 6: The Ideal Way (coaching empire, helping from woundedness, performance as service)
+- Wrote Chapter 7: The Warning Signs (eight years sober but still running, body/mind/spirit signals)
+- Wrote Chapter 8: February 26, 2018 (the day the towers fell, identity collapse, the beginning of the end)
+- Wrote Chapter 9: Reader Integration (exercises for sobriety vs healing, identity, warning signs)
+- Created Volume 2 table of contents
+
+**Volume II Stats:**
+- 8 chapters + Reader Integration section
+- Estimated word count: ~45,000 words
+- Complete first draft
+
+**Next Session:**
+- Begin Volume III: The Dark Night (2018-2021)
+- Bipolar diagnosis, hospitalizations, relapses, suicidal ideation, therapist Paul
+
+**Notes:**
+Volume II reveals the dangerous middle ground of recovery - where behavioral change masks the absence of true transformation. Nicholas achieves everything the world values while remaining fundamentally unchanged. The collapse on February 26, 2018 sets up Volume III's descent into the darkest night before the sacred encounter.
+
+---
+
 ## Quick Reference: File Structure
 
 ```
@@ -526,16 +556,27 @@ nicholas-ai/
 │   ├── volume-5-preface.md ✅
 │   ├── volume-6-preface.md ✅
 │   ├── volume-7-preface.md ✅
-│   └── volume-1/ ✅ COMPLETE
-│       ├── 00-volume-1-contents.md
-│       ├── chapter-01-born-into-blessing.md
-│       ├── chapter-02-the-hidden-wound.md
-│       ├── chapter-03-first-heartbreak-first-covenant.md
-│       ├── chapter-04-the-prodigals-departure.md
-│       ├── chapter-05-the-glittering-darkness.md
-│       ├── chapter-06-the-woman-who-saw-through.md
-│       ├── chapter-07-empire-on-sand.md
-│       ├── chapter-08-the-breaking-point.md
+│   ├── volume-1/ ✅ COMPLETE
+│   │   ├── 00-volume-1-contents.md
+│   │   ├── chapter-01-born-into-blessing.md
+│   │   ├── chapter-02-the-hidden-wound.md
+│   │   ├── chapter-03-first-heartbreak-first-covenant.md
+│   │   ├── chapter-04-the-prodigals-departure.md
+│   │   ├── chapter-05-the-glittering-darkness.md
+│   │   ├── chapter-06-the-woman-who-saw-through.md
+│   │   ├── chapter-07-empire-on-sand.md
+│   │   ├── chapter-08-the-breaking-point.md
+│   │   └── chapter-09-reader-integration.md
+│   └── volume-2/ ✅ COMPLETE
+│       ├── 00-volume-2-contents.md
+│       ├── chapter-01-hitting-bottom.md
+│       ├── chapter-02-the-rooms-that-saved-me.md
+│       ├── chapter-03-nancys-faith.md
+│       ├── chapter-04-children-of-promise.md
+│       ├── chapter-05-the-corporate-ascent.md
+│       ├── chapter-06-the-ideal-way.md
+│       ├── chapter-07-the-warning-signs.md
+│       ├── chapter-08-february-26-2018.md
 │       └── chapter-09-reader-integration.md
 ├── book-series/
 │   └── 00-series-overview.md
