@@ -139,7 +139,8 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 - [x] Volume I: The Fractured Foundation - **COMPLETE**
 - [x] Volume II: The Resurrection Attempt - **COMPLETE**
 - [x] Volume III: The Dark Night - **COMPLETE**
-- [ ] Volume IV: The Sacred Encounter - **NOT STARTED**
+- [x] Volume IV: The Sacred Encounter - **COMPLETE**
+- [ ] Volume V: The Integration - **NOT STARTED**
 
 ### Writing Status Dashboard
 
@@ -148,7 +149,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 | I | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | II | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | III | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
-| IV | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not Started |
+| IV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
 | V | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 | VI | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 | VII | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
@@ -405,7 +406,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 | Volume II Revised Draft Complete | TBD | ⬜ |
 | Volume III First Draft Complete | January 24, 2026 | ✅ |
 | Volume III Revised Draft Complete | TBD | ⬜ |
-| Volume IV First Draft Complete | TBD | ⬜ |
+| Volume IV First Draft Complete | January 24, 2026 | ✅ |
 | Volume IV Revised Draft Complete | TBD | ⬜ |
 | Volume V First Draft Complete | TBD | ⬜ |
 | Volume V Revised Draft Complete | TBD | ⬜ |
@@ -571,6 +572,36 @@ Volume III takes the reader into the darkest territory - the complete collapse o
 
 ---
 
+### Session 5 - January 24, 2026
+**Focus:** Writing Volume IV - The Sacred Encounter
+**Completed:**
+- Created Volume 4 directory structure
+- Wrote Chapter 1: The Desperate Decision (learning about ibogaine, prayer, research, leap of faith)
+- Wrote Chapter 2: Arrival at Transcend (Cancun, medical assessment, final preparations, "It is finished")
+- Wrote Chapter 3: The Flood Dose (24-48 hours of medicine, waves, surgery, the question "Do you want to be free?")
+- Wrote Chapter 4: Vision: The Father (face passing through, seeing him as wounded man, forgiveness, blessing received)
+- Wrote Chapter 5: Vision: The Children (Maverick and Perla, generational curse stopped, connection restored)
+- Wrote Chapter 6: Vision: The Abuser (facing Sadek after 35 years, forgiveness, chains broken, first covenant burns)
+- Wrote Chapter 7: Vision: Nancy's Eye (single eye from distance, sacred contract, depth that awaited)
+- Wrote Chapter 8: Before the Throne (Father, Son, Spirit, covenants burned in heavenly fire, new identity declared)
+- Wrote Chapter 9: Freedom (waking to "Freedom. Freedom. Freedom.", the evidence, the new normal)
+- Wrote Chapter 10: Reader Integration (sacred medicine discernment, preparation, freedom understanding)
+- Created Volume 4 table of contents
+
+**Volume IV Stats:**
+- 9 chapters + Reader Integration section
+- Estimated word count: ~50,000 words
+- Complete first draft
+
+**Next Session:**
+- Begin Volume V: The Integration (August-November 2025)
+- Four boosters, return to Transcend, Bufo/5-MeO-DMT, integration framework
+
+**Notes:**
+Volume IV is the sacred heart of the series. The ibogaine flood dose, the visions of father/children/abuser/wife, and the burning of covenants before God's throne create the pivotal transformation. This volume required careful balance - honoring the sacred nature of the experience while making it accessible and useful for readers who may or may not pursue similar paths. The "Freedom" conclusion lands the transformation in measurable reality.
+
+---
+
 ## Quick Reference: File Structure
 
 ```
@@ -608,17 +639,29 @@ nicholas-ai/
 │   │   ├── chapter-07-the-warning-signs.md
 │   │   ├── chapter-08-february-26-2018.md
 │   │   └── chapter-09-reader-integration.md
-│   └── volume-3/ ✅ COMPLETE
-│       ├── 00-volume-3-contents.md
-│       ├── chapter-01-the-loss.md
-│       ├── chapter-02-the-diagnosis.md
-│       ├── chapter-03-the-hospitalizations.md
-│       ├── chapter-04-the-relapses.md
-│       ├── chapter-05-the-whispers.md
-│       ├── chapter-06-the-question-that-haunted.md
-│       ├── chapter-07-the-therapist-named-paul.md
-│       ├── chapter-08-the-glimmer.md
-│       └── chapter-09-reader-integration.md
+│   ├── volume-3/ ✅ COMPLETE
+│   │   ├── 00-volume-3-contents.md
+│   │   ├── chapter-01-the-loss.md
+│   │   ├── chapter-02-the-diagnosis.md
+│   │   ├── chapter-03-the-hospitalizations.md
+│   │   ├── chapter-04-the-relapses.md
+│   │   ├── chapter-05-the-whispers.md
+│   │   ├── chapter-06-the-question-that-haunted.md
+│   │   ├── chapter-07-the-therapist-named-paul.md
+│   │   ├── chapter-08-the-glimmer.md
+│   │   └── chapter-09-reader-integration.md
+│   └── volume-4/ ✅ COMPLETE
+│       ├── 00-volume-4-contents.md
+│       ├── chapter-01-the-desperate-decision.md
+│       ├── chapter-02-arrival-at-transcend.md
+│       ├── chapter-03-the-flood-dose.md
+│       ├── chapter-04-vision-the-father.md
+│       ├── chapter-05-vision-the-children.md
+│       ├── chapter-06-vision-the-abuser.md
+│       ├── chapter-07-vision-nancys-eye.md
+│       ├── chapter-08-before-the-throne.md
+│       ├── chapter-09-freedom.md
+│       └── chapter-10-reader-integration.md
 ├── book-series/
 │   └── 00-series-overview.md
 └── planning/
