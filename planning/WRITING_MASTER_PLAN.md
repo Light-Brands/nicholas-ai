@@ -1,0 +1,425 @@
+# The Nicholas Series: Master Writing Plan
+## The Internal Transformational Epicenter - 7 Volume Book Series
+
+---
+
+> *"Bringing the lost travelers home to the gardens of their souls."*
+
+**Author:** Nicholas Courchesne
+**Plan Created:** January 24, 2026
+**Plan Last Updated:** January 24, 2026
+
+---
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Current Status](#current-status)
+3. [Volume-by-Volume Writing Plan](#volume-by-volume-writing-plan)
+4. [Phase Breakdown](#phase-breakdown)
+5. [Writing Milestones](#writing-milestones)
+6. [Resource Documents](#resource-documents)
+7. [Session Tracking Log](#session-tracking-log)
+
+---
+
+## Project Overview
+
+### The Series Vision
+A seven-volume autobiographical book series documenting Nicholas's 45-year journey from fractured performer to integrated wholeness, providing a roadmap for other "lost travelers" to find their way home.
+
+### Core Themes by Volume
+
+| Vol | Title | Timeline | Core Theme | Word Target |
+|-----|-------|----------|------------|-------------|
+| I | The Fractured Foundation | 1980-2007 | You cannot heal what you refuse to see | 50,000-60,000 |
+| II | The Resurrection Attempt | 2007-2018 | Recovery without transformation is reformation without resurrection | 50,000-60,000 |
+| III | The Dark Night | 2018-2021 | Identity annihilation is the prerequisite for identity resurrection | 45,000-55,000 |
+| IV | The Sacred Encounter | August 2025 | Some surgeries require medicine that only the Divine can administer | 40,000-50,000 |
+| V | The Integration | Aug-Nov 2025 | Revelation without integration becomes another form of addiction | 45,000-55,000 |
+| VI | The Identity Reclaimed | Ongoing | You must speak who you are before you can live who you are | 40,000-50,000 |
+| VII | The Epicenter Expands | Ongoing | Your wounds, once healed, become doors for others | 45,000-55,000 |
+
+**Total Series Target:** 315,000-385,000 words
+
+---
+
+## Current Status
+
+### Completed Assets
+- [x] Soul Mission document (`SOUL_MISSION.md`)
+- [x] Series overview (`book-series/00-series-overview.md`)
+- [x] Book README with volume summaries (`book/README.md`)
+- [x] Timeline documentation (13 documents in `planning/timeline-by-year/`)
+- [x] All 7 volume prefaces (`book/volume-X-preface.md`)
+
+### In Progress
+- [ ] Volume I: The Fractured Foundation - **NOT STARTED**
+
+### Writing Status Dashboard
+
+| Volume | Preface | Ch 1 | Ch 2 | Ch 3 | Ch 4 | Ch 5 | Ch 6 | Ch 7 | Ch 8 | Ch 9 | Integration | Status |
+|--------|---------|------|------|------|------|------|------|------|------|------|-------------|--------|
+| I | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| II | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| III | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| IV | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not Started |
+| V | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| VI | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| VII | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+
+**Legend:** ✅ Complete | 🔄 In Progress | ⬜ Not Started
+
+---
+
+## Volume-by-Volume Writing Plan
+
+### Volume I: The Fractured Foundation (1980-2007)
+
+**Primary Source:** `planning/timeline-by-year/01-1980-1995-childhood-and-foundation.md`, `02-1996-2001-departure-and-new-york.md`, `03-2001-2007-businesses-and-downfall.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | Born Into Blessing | Grandmother's prayers, early faith, miracles as daily reality, Canadian upbringing | 5,000-7,000 | ⬜ |
+| 2 | The Hidden Wound | Sexual abuse (ages 8-11), burial of trauma, beginning of the split | 6,000-8,000 | ⬜ |
+| 3 | First Heartbreak, First Covenant | "Love equals suffering" vow, teenage relationships, pattern formation | 5,000-7,000 | ⬜ |
+| 4 | The Prodigal's Departure | Leaving home at 16, "Just watch me," self-coronation | 5,000-7,000 | ⬜ |
+| 5 | The Glittering Darkness | Toronto/NYC nightlife, millionaire by 21, external success/internal emptiness | 7,000-9,000 | ⬜ |
+| 6 | The Woman Who Saw Through | Nancy's entrance, friendship, the sacred contract begins | 5,000-7,000 | ⬜ |
+| 7 | Empire on Sand | Extreme Blendz, Zugari, M1 Boxing — brilliant businesses, fractured builder | 6,000-8,000 | ⬜ |
+| 8 | The Breaking Point | May 2007 psychosis, 40-60oz liquor daily, complete collapse | 6,000-8,000 | ⬜ |
+| - | Reader Integration | Exercises: identifying hidden wounds, unconscious covenants, masks | 3,000-4,000 | ⬜ |
+
+---
+
+### Volume II: The Resurrection Attempt (2007-2018)
+
+**Primary Source:** `planning/timeline-by-year/04-2007-2011-rehabilitation-and-marriage.md`, `05-2011-2018-sobriety-and-success.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | Hitting Bottom | Three rehab attempts, the third one that stuck | 5,000-7,000 | ⬜ |
+| 2 | The Rooms That Saved Me | AA, sponsorship, accountability structures | 5,000-7,000 | ⬜ |
+| 3 | Nancy's Faith | Marriage in 2008, the woman who never stopped believing | 6,000-8,000 | ⬜ |
+| 4 | Children of Promise | Perla and Maverick, raising stakes, fatherhood | 5,000-7,000 | ⬜ |
+| 5 | The Corporate Ascent | Ideal Protein, VP of Sales, $7.9 million in options | 6,000-8,000 | ⬜ |
+| 6 | The Ideal Way | Building a coaching empire while running on empty | 5,000-7,000 | ⬜ |
+| 7 | The Warning Signs | Eight years sober but still performing, hiding, running | 6,000-8,000 | ⬜ |
+| 8 | February 26, 2018 | The day the towers fell — job loss, identity collapse | 6,000-8,000 | ⬜ |
+| - | Reader Integration | Assessment tools: recovery vs. transformation, embodiment practices | 3,000-4,000 | ⬜ |
+
+---
+
+### Volume III: The Dark Night (2018-2021)
+
+**Primary Source:** `planning/timeline-by-year/06-2018-2021-collapse-and-crisis.md`, `07-2021-2024-sacred-healing-journey.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | The Loss | $7.9 million, title, team, purpose — gone in reorganization | 5,000-7,000 | ⬜ |
+| 2 | The Diagnosis | Bipolar Type 2, psychiatric medications, numbing of soul | 5,000-7,000 | ⬜ |
+| 3 | The Hospitalizations | 18 months of crisis, multiple admissions | 5,000-7,000 | ⬜ |
+| 4 | The Relapses | Eight years of sobriety shattered, shame compounded | 5,000-7,000 | ⬜ |
+| 5 | The Whispers | "Your family would be better off without you" — suicidal ideation | 5,000-7,000 | ⬜ |
+| 6 | The Question That Haunted | "Why can't I heal? I've done everything." | 4,000-6,000 | ⬜ |
+| 7 | The Therapist Named Paul | Actor vs. Director, the three covenants identified | 6,000-8,000 | ⬜ |
+| 8 | The Glimmer | "There is more. This is not the end." | 4,000-6,000 | ⬜ |
+| - | Reader Integration | Covenant identification exercises, working with darkness | 3,000-4,000 | ⬜ |
+
+---
+
+### Volume IV: The Sacred Encounter (August 2025)
+
+**Primary Source:** `planning/timeline-by-year/09-august-2025-ibogaine-flood-dose.md`, `10-august-2025-ibogaine-boosters.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | The Desperate Decision | Learning about ibogaine, prayer, research, leap of faith | 4,000-6,000 | ⬜ |
+| 2 | Arrival at Transcend | Cancun, Mexico, darkest season meets brightest possibility | 4,000-6,000 | ⬜ |
+| 3 | The Flood Dose | 24-48 hours of medicine, opening words: "It is finished" | 5,000-7,000 | ⬜ |
+| 4 | Vision: The Father | Father's face, forgiveness, blessing received | 4,000-6,000 | ⬜ |
+| 5 | Vision: The Children | Maverick and Perla, generational curse stopped | 4,000-6,000 | ⬜ |
+| 6 | Vision: The Abuser | Facing Sadek after 35 years, chains broken | 5,000-7,000 | ⬜ |
+| 7 | Vision: Nancy's Eye | Understanding the sacred contract | 4,000-6,000 | ⬜ |
+| 8 | Before The Throne | Father, Jesus, Holy Spirit — covenants burned in heavenly fire | 5,000-7,000 | ⬜ |
+| 9 | Freedom | Waking to: "Freedom. Freedom. Freedom." | 3,000-5,000 | ⬜ |
+| - | Reader Integration | Sacred medicine discernment framework, preparation protocols | 3,000-4,000 | ⬜ |
+
+---
+
+### Volume V: The Integration (August-November 2025)
+
+**Primary Source:** `planning/timeline-by-year/10-august-2025-ibogaine-boosters.md`, `11-november-2025-return-to-transcend.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | The Four Boosters | Cleansing, Vision, Battle, Stillness | 5,000-7,000 | ⬜ |
+| 2 | Return to Transcend | 90 days later, the Bufo ceremony | 5,000-7,000 | ⬜ |
+| 3 | The Vertical Awakening | 5-MeO-DMT, unity consciousness, eternal truth revealed | 5,000-7,000 | ⬜ |
+| 4 | The Integration Framework | Bufo reveals, Ibogaine installs, Integration lives | 5,000-7,000 | ⬜ |
+| 5 | The Measurable Transformation | From suicidal ideation to 7-8 hours natural sleep | 5,000-7,000 | ⬜ |
+| 6 | The Baptism of Love | Feeling Nancy's pain for the first time, authentic love | 5,000-7,000 | ⬜ |
+| 7 | The Trinitarian Self | Dark Warrior (Body), Light Warrior (Soul), Creator (Spirit) | 6,000-8,000 | ⬜ |
+| 8 | The Divine Order | Spirit → Soul → Body | 5,000-7,000 | ⬜ |
+| - | Reader Integration | 90-day integration protocol, daily practices | 4,000-5,000 | ⬜ |
+
+---
+
+### Volume VI: The Identity Reclaimed
+
+**Primary Source:** `planning/timeline-by-year/12-declarations-and-identity.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | The Old Identity | Drug dealer, performer, addict, failure — imprisoning stories | 5,000-7,000 | ⬜ |
+| 2 | The Transitional Identity | Survivor, recovered, rebuilding — necessary but incomplete | 5,000-7,000 | ⬜ |
+| 3 | The Revealed Identity | Son of I Am, King, Ambassador, Apostle, Healer | 5,000-7,000 | ⬜ |
+| 4 | The Declarations | Speaking truth over your life daily | 5,000-7,000 | ⬜ |
+| 5 | The Covenants Replaced | Old vows → New truths | 5,000-7,000 | ⬜ |
+| 6 | The Five Generations Healed | Ancestral patterns stopped, legacy redirected | 4,000-6,000 | ⬜ |
+| 7 | The Eternal Perspective | "I am an eternal spirit living a human experience" | 5,000-7,000 | ⬜ |
+| 8 | The Profound Revelation | Body/soul/spirit and time | 4,000-6,000 | ⬜ |
+| - | Reader Integration | Identity declaration templates, community building | 3,000-4,000 | ⬜ |
+
+---
+
+### Volume VII: The Epicenter Expands
+
+**Primary Source:** `planning/timeline-by-year/00-introduction.md`, `12-declarations-and-identity.md`
+
+#### Chapters
+
+| # | Chapter Title | Content Focus | Word Target | Status |
+|---|---------------|---------------|-------------|--------|
+| 1 | The Divine Mandate | The call to help couples/leaders with infidelity, addiction, burnout | 5,000-7,000 | ⬜ |
+| 2 | The Vision | 30+ Transformational Epicenter locations globally | 5,000-7,000 | ⬜ |
+| 3 | The Seven Pillars Applied | Building sacred containers for transformation | 6,000-8,000 | ⬜ |
+| 4 | The Target | Successful outside, dying inside | 5,000-7,000 | ⬜ |
+| 5 | Eradicating the Spirit of | Religion, addiction, divorce, sickness, poverty | 5,000-7,000 | ⬜ |
+| 6 | The Ambassador's Walk | Living as embodiment, not just teacher | 5,000-7,000 | ⬜ |
+| 7 | Nancy's Sacred Contract Completed | From loving into awakening to awakening others together | 5,000-7,000 | ⬜ |
+| 8 | The Legacy | What Perla and Maverick inherit: promise, not pain | 5,000-7,000 | ⬜ |
+| - | Reader Integration | Discerning your calling, building your epicenter | 4,000-5,000 | ⬜ |
+
+---
+
+## Phase Breakdown
+
+### Phase 1: Foundation & Volume I
+**Focus:** Complete Volume I - The Fractured Foundation
+
+**Tasks:**
+- [ ] Review all timeline docs for 1980-2007 period
+- [ ] Create detailed chapter outlines for all 8 chapters
+- [ ] Draft Chapter 1: Born Into Blessing
+- [ ] Draft Chapter 2: The Hidden Wound
+- [ ] Draft Chapter 3: First Heartbreak, First Covenant
+- [ ] Draft Chapter 4: The Prodigal's Departure
+- [ ] Draft Chapter 5: The Glittering Darkness
+- [ ] Draft Chapter 6: The Woman Who Saw Through
+- [ ] Draft Chapter 7: Empire on Sand
+- [ ] Draft Chapter 8: The Breaking Point
+- [ ] Write Reader Integration section
+- [ ] First revision pass
+- [ ] Second revision pass
+
+---
+
+### Phase 2: Volume II
+**Focus:** Complete Volume II - The Resurrection Attempt
+
+**Tasks:**
+- [ ] Review all timeline docs for 2007-2018 period
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 8 chapters
+- [ ] Write Reader Integration section
+- [ ] Revision passes
+
+---
+
+### Phase 3: Volume III
+**Focus:** Complete Volume III - The Dark Night
+
+**Tasks:**
+- [ ] Review timeline docs for 2018-2021 period
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 8 chapters
+- [ ] Write Reader Integration section
+- [ ] Revision passes
+
+---
+
+### Phase 4: Volume IV
+**Focus:** Complete Volume IV - The Sacred Encounter
+
+**Tasks:**
+- [ ] Review ibogaine ceremony timeline docs
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 9 chapters
+- [ ] Write Reader Integration section (sacred medicine discernment)
+- [ ] Revision passes
+
+---
+
+### Phase 5: Volume V
+**Focus:** Complete Volume V - The Integration
+
+**Tasks:**
+- [ ] Review booster and return-to-Transcend timeline docs
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 8 chapters
+- [ ] Write Reader Integration section (90-day protocol)
+- [ ] Revision passes
+
+---
+
+### Phase 6: Volume VI
+**Focus:** Complete Volume VI - The Identity Reclaimed
+
+**Tasks:**
+- [ ] Review declarations and identity timeline doc
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 8 chapters
+- [ ] Write Reader Integration section
+- [ ] Revision passes
+
+---
+
+### Phase 7: Volume VII & Series Completion
+**Focus:** Complete Volume VII and finalize series
+
+**Tasks:**
+- [ ] Create detailed chapter outlines
+- [ ] Draft all 8 chapters
+- [ ] Write Reader Integration section
+- [ ] Write Series Appendices (A-E)
+- [ ] Final revision of all volumes
+- [ ] Series continuity check
+
+---
+
+## Writing Milestones
+
+| Milestone | Target | Status |
+|-----------|--------|--------|
+| Volume I First Draft Complete | TBD | ⬜ |
+| Volume I Revised Draft Complete | TBD | ⬜ |
+| Volume II First Draft Complete | TBD | ⬜ |
+| Volume II Revised Draft Complete | TBD | ⬜ |
+| Volume III First Draft Complete | TBD | ⬜ |
+| Volume III Revised Draft Complete | TBD | ⬜ |
+| Volume IV First Draft Complete | TBD | ⬜ |
+| Volume IV Revised Draft Complete | TBD | ⬜ |
+| Volume V First Draft Complete | TBD | ⬜ |
+| Volume V Revised Draft Complete | TBD | ⬜ |
+| Volume VI First Draft Complete | TBD | ⬜ |
+| Volume VI Revised Draft Complete | TBD | ⬜ |
+| Volume VII First Draft Complete | TBD | ⬜ |
+| Volume VII Revised Draft Complete | TBD | ⬜ |
+| All Appendices Complete | TBD | ⬜ |
+| Full Series First Pass Complete | TBD | ⬜ |
+| Full Series Ready for Editor | TBD | ⬜ |
+
+---
+
+## Resource Documents
+
+### Timeline Documentation
+Located in `planning/timeline-by-year/`:
+- `00-index.md` - Complete index
+- `00-introduction.md` - Godzillionnaire vision
+- `01-1980-1995-childhood-and-foundation.md`
+- `02-1996-2001-departure-and-new-york.md`
+- `03-2001-2007-businesses-and-downfall.md`
+- `04-2007-2011-rehabilitation-and-marriage.md`
+- `05-2011-2018-sobriety-and-success.md`
+- `06-2018-2021-collapse-and-crisis.md`
+- `07-2021-2024-sacred-healing-journey.md`
+- `08-2024-2025-trauma-resurgence-therapy.md`
+- `09-august-2025-ibogaine-flood-dose.md`
+- `10-august-2025-ibogaine-boosters.md`
+- `11-november-2025-return-to-transcend.md`
+- `12-declarations-and-identity.md`
+
+### Series Planning
+- `SOUL_MISSION.md` - Core mission document
+- `book-series/00-series-overview.md` - Detailed series structure
+- `book/README.md` - Volume summaries
+
+### Written Content
+Located in `book/`:
+- All 7 volume prefaces complete
+
+---
+
+## Session Tracking Log
+
+Use this section to track writing sessions across multiple conversations.
+
+### Session Format
+```
+### Session [NUMBER] - [DATE]
+**Focus:** [What was worked on]
+**Completed:**
+- Item 1
+- Item 2
+**Next Session:**
+- Item 1
+- Item 2
+**Notes:**
+[Any relevant notes]
+```
+
+---
+
+### Session 1 - January 24, 2026
+**Focus:** Creating master writing plan
+**Completed:**
+- Reviewed all existing documentation
+- Created comprehensive master writing plan
+- Established tracking structure for all 7 volumes
+**Next Session:**
+- Begin Phase 1: Volume I chapter outlines
+- Start drafting Chapter 1: Born Into Blessing
+**Notes:**
+All prefaces are already written. Timeline documentation is comprehensive. Ready to begin writing chapters.
+
+---
+
+## Quick Reference: File Structure
+
+```
+nicholas-ai/
+├── README.md
+├── SOUL_MISSION.md
+├── book/
+│   ├── README.md
+│   ├── volume-1-preface.md ✅
+│   ├── volume-2-preface.md ✅
+│   ├── volume-3-preface.md ✅
+│   ├── volume-4-preface.md ✅
+│   ├── volume-5-preface.md ✅
+│   ├── volume-6-preface.md ✅
+│   └── volume-7-preface.md ✅
+├── book-series/
+│   └── 00-series-overview.md
+└── planning/
+    ├── WRITING_MASTER_PLAN.md (this file)
+    └── timeline-by-year/
+        └── [13 timeline documents]
+```
+
+---
+
+*This is a living document. Update after each writing session.*
