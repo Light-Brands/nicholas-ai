@@ -140,7 +140,8 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 - [x] Volume II: The Resurrection Attempt - **COMPLETE**
 - [x] Volume III: The Dark Night - **COMPLETE**
 - [x] Volume IV: The Sacred Encounter - **COMPLETE**
-- [ ] Volume V: The Integration - **NOT STARTED**
+- [x] Volume V: The Integration - **COMPLETE**
+- [ ] Volume VI: The Identity Reclaimed - **NOT STARTED**
 
 ### Writing Status Dashboard
 
@@ -150,7 +151,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 | II | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | III | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | IV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
-| V | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| V | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | VI | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 | VII | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 
@@ -408,7 +409,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 | Volume III Revised Draft Complete | TBD | ⬜ |
 | Volume IV First Draft Complete | January 24, 2026 | ✅ |
 | Volume IV Revised Draft Complete | TBD | ⬜ |
-| Volume V First Draft Complete | TBD | ⬜ |
+| Volume V First Draft Complete | January 24, 2026 | ✅ |
 | Volume V Revised Draft Complete | TBD | ⬜ |
 | Volume VI First Draft Complete | TBD | ⬜ |
 | Volume VI Revised Draft Complete | TBD | ⬜ |
@@ -602,6 +603,35 @@ Volume IV is the sacred heart of the series. The ibogaine flood dose, the vision
 
 ---
 
+### Session 6 - January 24, 2026
+**Focus:** Writing Volume V - The Integration
+**Completed:**
+- Created Volume 5 directory structure
+- Wrote Chapter 1: The Four Boosters (Cleansing, Vision, Battle, Stillness)
+- Wrote Chapter 2: Return to Transcend (90 days later, living in presence)
+- Wrote Chapter 3: The Vertical Awakening (Bufo/5-MeO-DMT, unity consciousness)
+- Wrote Chapter 4: The Integration Framework (Bufo reveals, Ibogaine installs, Integration lives)
+- Wrote Chapter 5: The Measurable Transformation (documented evidence of change)
+- Wrote Chapter 6: The Baptism of Love (finally feeling Nancy's pain after 17 years)
+- Wrote Chapter 7: The Trinitarian Self (Dark Warrior/Body, Light Warrior/Soul, Creator/Spirit)
+- Wrote Chapter 8: The Divine Order (Spirit leads Soul leads Body)
+- Wrote Chapter 9: Reader Integration (90-day integration protocol, daily practices)
+- Created Volume 5 table of contents
+
+**Volume V Stats:**
+- 8 chapters + Reader Integration section
+- Estimated word count: ~45,000 words
+- Complete first draft
+
+**Next Session:**
+- Begin Volume VI: The Identity Reclaimed
+- Old identity, transitional identity, revealed identity, declarations, covenants replaced
+
+**Notes:**
+Volume V provides the practical bridge between sacred encounter and daily life. The Trinitarian Self framework (Dark Warrior/Light Warrior/Creator) and Divine Order (Spirit → Soul → Body) give readers concrete tools for integrated living. The Baptism of Love chapter is emotionally powerful - seventeen years of marriage before finally being able to feel his wife's pain. The 90-day integration protocol in the Reader Integration makes the transformation actionable.
+
+---
+
 ## Quick Reference: File Structure
 
 ```
@@ -650,18 +680,29 @@ nicholas-ai/
 │   │   ├── chapter-07-the-therapist-named-paul.md
 │   │   ├── chapter-08-the-glimmer.md
 │   │   └── chapter-09-reader-integration.md
-│   └── volume-4/ ✅ COMPLETE
-│       ├── 00-volume-4-contents.md
-│       ├── chapter-01-the-desperate-decision.md
-│       ├── chapter-02-arrival-at-transcend.md
-│       ├── chapter-03-the-flood-dose.md
-│       ├── chapter-04-vision-the-father.md
-│       ├── chapter-05-vision-the-children.md
-│       ├── chapter-06-vision-the-abuser.md
-│       ├── chapter-07-vision-nancys-eye.md
-│       ├── chapter-08-before-the-throne.md
-│       ├── chapter-09-freedom.md
-│       └── chapter-10-reader-integration.md
+│   ├── volume-4/ ✅ COMPLETE
+│   │   ├── 00-volume-4-contents.md
+│   │   ├── chapter-01-the-desperate-decision.md
+│   │   ├── chapter-02-arrival-at-transcend.md
+│   │   ├── chapter-03-the-flood-dose.md
+│   │   ├── chapter-04-vision-the-father.md
+│   │   ├── chapter-05-vision-the-children.md
+│   │   ├── chapter-06-vision-the-abuser.md
+│   │   ├── chapter-07-vision-nancys-eye.md
+│   │   ├── chapter-08-before-the-throne.md
+│   │   ├── chapter-09-freedom.md
+│   │   └── chapter-10-reader-integration.md
+│   └── volume-5/ ✅ COMPLETE
+│       ├── 00-volume-5-contents.md
+│       ├── chapter-01-the-four-boosters.md
+│       ├── chapter-02-return-to-transcend.md
+│       ├── chapter-03-the-vertical-awakening.md
+│       ├── chapter-04-the-integration-framework.md
+│       ├── chapter-05-the-measurable-transformation.md
+│       ├── chapter-06-the-baptism-of-love.md
+│       ├── chapter-07-the-trinitarian-self.md
+│       ├── chapter-08-the-divine-order.md
+│       └── chapter-09-reader-integration.md
 ├── book-series/
 │   └── 00-series-overview.md
 └── planning/
