@@ -138,7 +138,8 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 ### In Progress
 - [x] Volume I: The Fractured Foundation - **COMPLETE**
 - [x] Volume II: The Resurrection Attempt - **COMPLETE**
-- [ ] Volume III: The Dark Night - **NOT STARTED**
+- [x] Volume III: The Dark Night - **COMPLETE**
+- [ ] Volume IV: The Sacred Encounter - **NOT STARTED**
 
 ### Writing Status Dashboard
 
@@ -146,7 +147,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 |--------|---------|------|------|------|------|------|------|------|------|------|-------------|--------|
 | I | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | II | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
-| III | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
+| III | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | **COMPLETE** |
 | IV | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not Started |
 | V | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
 | VI | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | - | ⬜ | Not Started |
@@ -402,7 +403,7 @@ A seven-volume autobiographical book series documenting Nicholas's 45-year journ
 | Volume I Revised Draft Complete | TBD | ⬜ |
 | Volume II First Draft Complete | January 24, 2026 | ✅ |
 | Volume II Revised Draft Complete | TBD | ⬜ |
-| Volume III First Draft Complete | TBD | ⬜ |
+| Volume III First Draft Complete | January 24, 2026 | ✅ |
 | Volume III Revised Draft Complete | TBD | ⬜ |
 | Volume IV First Draft Complete | TBD | ⬜ |
 | Volume IV Revised Draft Complete | TBD | ⬜ |
@@ -541,6 +542,35 @@ Volume II reveals the dangerous middle ground of recovery - where behavioral cha
 
 ---
 
+### Session 4 - January 24, 2026
+**Focus:** Writing Volume III - The Dark Night
+**Completed:**
+- Created Volume 3 directory structure
+- Wrote Chapter 1: The Loss ($7.9 million gone, identity collapse, the mask without a face)
+- Wrote Chapter 2: The Diagnosis (Bipolar Type 2, medications, numbness, the label that both explained and limited)
+- Wrote Chapter 3: The Hospitalizations (18 months of crisis, revolving door, the machine that couldn't heal wounds)
+- Wrote Chapter 4: The Relapses (8 years shattered, shame compounded, symptoms not cause)
+- Wrote Chapter 5: The Whispers (suicidal ideation, "your family would be better off", fighting the logic of death)
+- Wrote Chapter 6: The Question That Haunted ("Why can't I heal?", exhausted options, missing piece)
+- Wrote Chapter 7: The Therapist Named Paul (Actor vs Director framework, three covenants identified, preparing for ibogaine)
+- Wrote Chapter 8: The Glimmer ("There is more. This is not the end.", seeds planted, decision made)
+- Wrote Chapter 9: Reader Integration (covenant identification, dark night processing, Actor/Director mapping)
+- Created Volume 3 table of contents
+
+**Volume III Stats:**
+- 8 chapters + Reader Integration section
+- Estimated word count: ~45,000 words
+- Complete first draft
+
+**Next Session:**
+- Begin Volume IV: The Sacred Encounter (August 2025)
+- Ibogaine flood dose, visions, covenants burned before the Throne, "Freedom"
+
+**Notes:**
+Volume III takes the reader into the darkest territory - the complete collapse of external identity, the suicidal whispers, the despair of exhausted options. But it also introduces the therapist Paul and the Actor vs Director framework that will prove essential. The glimmer that persisted through the darkness points toward what comes next: the sacred encounter with ibogaine that will change everything.
+
+---
+
 ## Quick Reference: File Structure
 
 ```
@@ -567,16 +597,27 @@ nicholas-ai/
 │   │   ├── chapter-07-empire-on-sand.md
 │   │   ├── chapter-08-the-breaking-point.md
 │   │   └── chapter-09-reader-integration.md
-│   └── volume-2/ ✅ COMPLETE
-│       ├── 00-volume-2-contents.md
-│       ├── chapter-01-hitting-bottom.md
-│       ├── chapter-02-the-rooms-that-saved-me.md
-│       ├── chapter-03-nancys-faith.md
-│       ├── chapter-04-children-of-promise.md
-│       ├── chapter-05-the-corporate-ascent.md
-│       ├── chapter-06-the-ideal-way.md
-│       ├── chapter-07-the-warning-signs.md
-│       ├── chapter-08-february-26-2018.md
+│   ├── volume-2/ ✅ COMPLETE
+│   │   ├── 00-volume-2-contents.md
+│   │   ├── chapter-01-hitting-bottom.md
+│   │   ├── chapter-02-the-rooms-that-saved-me.md
+│   │   ├── chapter-03-nancys-faith.md
+│   │   ├── chapter-04-children-of-promise.md
+│   │   ├── chapter-05-the-corporate-ascent.md
+│   │   ├── chapter-06-the-ideal-way.md
+│   │   ├── chapter-07-the-warning-signs.md
+│   │   ├── chapter-08-february-26-2018.md
+│   │   └── chapter-09-reader-integration.md
+│   └── volume-3/ ✅ COMPLETE
+│       ├── 00-volume-3-contents.md
+│       ├── chapter-01-the-loss.md
+│       ├── chapter-02-the-diagnosis.md
+│       ├── chapter-03-the-hospitalizations.md
+│       ├── chapter-04-the-relapses.md
+│       ├── chapter-05-the-whispers.md
+│       ├── chapter-06-the-question-that-haunted.md
+│       ├── chapter-07-the-therapist-named-paul.md
+│       ├── chapter-08-the-glimmer.md
 │       └── chapter-09-reader-integration.md
 ├── book-series/
 │   └── 00-series-overview.md
